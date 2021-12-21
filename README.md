@@ -7,7 +7,7 @@ The purpose of this project is to build an effective **prediction model** which 
 
 
 ##  Data Resource
-The data set is named MatchTimelinesFirst15 for Kaggle. [link](https://www.kaggle.com/benfattori/league-of-legends-diamond-games-first-15-minutes)
+The data set is named MatchTimelinesFirst15 from Kaggle. [link](https://www.kaggle.com/benfattori/league-of-legends-diamond-games-first-15-minutes)
 
 
 
