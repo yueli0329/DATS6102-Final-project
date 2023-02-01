@@ -2,7 +2,6 @@
 
 The purpose of this project is to build an effective **prediction model** which uses the **first 15 minutes** in-game data to predict the final results with **supervised machine learning algorithms**, like Random forest, Decision tree, Logistic regression.
 
-![image](https://www.dexerto.com/wp-content/uploads/2021/09/24/league-of-legends-worlds-2021-night-and-dawn-event-missions-rewards-skins-leaks-1248x702.jpg.webp)
 ---
 
 
